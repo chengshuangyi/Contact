@@ -1,0 +1,5 @@
+﻿D:\VS 2017\VSIDE\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(test10_30.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  contact.c
+  test.c
+  正在生成代码...
+  test10_30.vcxproj -> F:\比特\C_Code\test10_30\Debug\Contact10_30.exe
